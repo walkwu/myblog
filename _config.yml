@@ -1,0 +1,6 @@
+permalink: /:year/:month/:day/:title/
+baseurl: /myblog
+author: walkwu
+exclude: ["Rakefile", "README.md"]
+safe: true
+paginate: 16
