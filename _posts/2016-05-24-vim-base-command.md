@@ -3,7 +3,7 @@ layout: post
 title: "vim常用命令"
 description: "vim常用命令"
 category: tools
-tags: [tools]
+tags: [tools, vim]
 ---
 
 
