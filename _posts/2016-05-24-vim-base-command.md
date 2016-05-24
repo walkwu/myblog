@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门"
-description: "搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门"
+title: "vim常用命令"
+description: "vim常用命令"
 category: tools
 tags: [tools]
 ---
@@ -9,7 +9,7 @@ tags: [tools]
 
 [TOC]
 
-##VI常用命令
+##vim常用命令
 
 ###进入vi的命令
 |命令 |进入vi|
